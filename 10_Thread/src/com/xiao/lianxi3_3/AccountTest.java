@@ -16,6 +16,5 @@ public class AccountTest {
         Customer customer2 = new Customer(acco,"乙");
         customer1.start();
         customer2.start();
-
     }
 }
