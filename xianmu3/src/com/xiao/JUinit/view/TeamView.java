@@ -1,4 +1,4 @@
-package com.xiao.view;
+package com.xiao.JUinit.view;
 
 
 import com.xiao.domain.Employee;

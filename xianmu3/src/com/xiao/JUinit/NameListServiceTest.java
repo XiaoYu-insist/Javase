@@ -3,7 +3,7 @@ package com.xiao.JUinit;
 import com.xiao.domain.Employee;
 import com.xiao.service.NameListService;
 import com.xiao.service.TeamException;
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 /**
  * ClassName: NameListServiceTest

@@ -1,6 +1,6 @@
 package com.xiao.lianxi12;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 /**
  * ClassName: mode
